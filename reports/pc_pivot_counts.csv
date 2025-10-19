@@ -1,0 +1,9 @@
+continent,Budget,Cheap,Luxury,Mid,Premium,Unknown
+Africa,336,16,4,255,44,93
+Asia,68,2,1,158,39,11
+Europe,9177,795,1173,11160,4112,4343
+North America,5546,319,620,15762,4948,121
+Oceania,713,50,64,817,223,43
+Other,99,10,1,82,4,1
+South America,2438,262,66,1196,241,54
+Unknown,9,2,0,16,1,4
